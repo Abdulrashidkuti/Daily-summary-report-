@@ -4,9 +4,6 @@
 # In[2]:
 
 
-get_ipython().system('pip install streamlit openpyxl pandas')
-
-
 # In[3]:
 
 
