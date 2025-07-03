@@ -58,13 +58,8 @@ if submitted:
     st.success("✅ Report submitted and saved to Excel successfully!")
 
 
-# In[4]:
 
 
-streamlit run daily_report_app.py
-
-
-# In[ ]:
 
 
 
