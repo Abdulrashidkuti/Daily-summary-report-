@@ -55,9 +55,6 @@ if submitted:
     st.success("✅ Report submitted and saved to Excel successfully!")
 
 
-streamlit
-pandas
-openpyxl
 
 
 
